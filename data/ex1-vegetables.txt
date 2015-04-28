@@ -1,0 +1,68 @@
+Artichoke
+Arugula
+Asparagus
+Avocado
+Bamboo shoot
+Bell pepper
+Bitter melon
+Bok choy
+Broccoli
+Brussels sprout
+Cabbage
+Carrot
+Cassava
+Cauliflower
+Celery
+Chickpea
+Chives
+Collard greens
+Cucumber
+Daikon
+Dandelion
+Eggplant
+Endive
+Fava bean
+Galangal
+Garbanzo
+Garlic
+Ginger
+Green bean
+Horseradish
+Jícama
+Kale
+Leek
+Lemongrass
+Lentil
+Lettuce
+Lima bean
+Mung bean
+Mustard
+Okra
+Onion
+Parsnip
+Pea
+Potato
+Pumpkin
+Radicchio
+Radish
+Rutabaga
+Salsify
+Shallot
+Snap pea
+Snow pea
+Sorrel
+Soybean
+Spinach
+Squash
+Sweet potato
+Taro
+Tomatillo
+Tomato
+Turmeric
+Turnip
+Wasabi
+Water chestnut
+Watercress
+Winter melon
+Zucchini
+
